@@ -1,1 +1,167 @@
-{}
+[
+{
+"id": 1,
+"name": "Dress Break",
+"type": "Technique",
+"users": ["Issei Hyoudou"],
+"description": "A technique developed by Issei Hyoudou that allows him to strip the clothes of any female target by making direct contact and snapping his fingers.",
+"relatedItems": ["Boosted Gear"],
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "While highly controversial, it effectively neutralizes female opponents wearing magic-infused gear or armor."
+},
+{
+"id": 2,
+"name": "Bilingual",
+"type": "Technique",
+"users": ["Issei Hyoudou"],
+"description": "A technique that allows the user to converse directly with the breasts of women, reading their inner thoughts, strategies, and psychological state.",
+"relatedItems": ["Boosted Gear"],
+"spoiler": false,
+"source": "Light Novel Vol. 8",
+"fact": "It was invented by Issei during a combat simulation against the Sitri Clan to read their strategy directly from Sona's pieces."
+},
+{
+"id": 3,
+"name": "Power of Destruction",
+"type": "Demonic Power",
+"users": ["Sirzechs Lucifer", "Rias Gremory", "Venelana Gremory", "Sairaorg Bael"],
+"description": "A hereditary trait of the Bael Clan that generates a dark crimson energy capable of completely obliterating matter and souls into nothingness.",
+"relatedItems": ["Bael Clan", "Gremory Clan"],
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "Sirzechs Lucifer possesses a unique variation known as the Humanoid Aura of Destruction, which can shape itself into independent entities."
+},
+{
+"id": 4,
+"name": "Twilight Healing",
+"type": "Sacred Gear Ability",
+"users": ["Asia Argento"],
+"description": "The primary healing power of the Twilight Healing Sacred Gear, capable of rapidly closing wounds and restoring vitality to Devils, Angels, Fallen Angels, and humans alike.",
+"relatedItems": ["Twilight Healing"],
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "Because it can heal any being regardless of their faction alignment, it caused Asia to be branded a heretic and excommunicated by the Church."
+},
+{
+"id": 5,
+"name": "Sword Birth",
+"type": "Sacred Gear Ability",
+"users": ["Yuuto Kiba"],
+"description": "The ability to summon and create numerous demonic swords with various elemental or holy attributes directly from the ground.",
+"relatedItems": ["Sword Birth"],
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "Kiba can create swords that explicitly counter specific weaknesses, such as blades that absorb holy light or freeze fire."
+},
+{
+"id": 6,
+"name": "Promotion",
+"type": "Technique",
+"users": ["Issei Hyoudou", "Yuuto Kiba", "Koneko Toujou", "Asia Argento", "Xenovia Quarta"],
+"description": "A mechanic of the Evil Piece system that allows reincarnated Devils acting as Pawns to temporarily assume the traits and power boosts of a Knight, Rook, Bishop, or Queen.",
+"relatedItems": ["Evil Pieces", "Rating Games"],
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "Promotion can only be declared once the Pawn reaches the territory of the enemy king or within a designated area approved by the game master."
+},
+{
+"id": 7,
+"name": "Senjutsu",
+"type": "Technique",
+"users": ["Koneko Toujou", "Kuroka", "Sun Wukong"],
+"description": "The manipulation of the natural flow of life energy (ki) within nature and one's own body, allowing users to read minds, detect presences, and enhance physical attributes.",
+"relatedItems": ["Touki", "Nekomata"],
+"spoiler": false,
+"source": "Light Novel Vol. 5",
+"fact": "Mastery of Senjutsu can grant access to Touki, an invisible spiritual armor that exponentially increases offensive and defensive metrics."
+},
+{
+"id": 8,
+"name": "Time Stopping",
+"type": "Sacred Gear Ability",
+"users": ["Gasper Vladi"],
+"description": "The ability to freeze the physical time of any object or person within the user's field of vision.",
+"relatedItems": ["Forbidden Invade Balor View"],
+"spoiler": false,
+"source": "Light Novel Vol. 4",
+"fact": "Initially highly unstable, Gasper needed to drink Issei's blood to temporarily boost his power and stabilize the ability's area of effect."
+},
+{
+"id": 9,
+"name": "Divine Dividing",
+"type": "Sacred Gear Ability",
+"users": ["Vali Lucifer"],
+"description": "The ability to divide an opponent's current power by half upon direct contact or close proximity every 10 seconds, adding the drained energy to the user's own reserve.",
+"relatedItems": ["Divine Dividing", "Albion"],
+"spoiler": false,
+"source": "Light Novel Vol. 4",
+"fact": "If the absorbed power exceeds the user's natural physical capacity, the excess energy must be vented through the wings of light."
+},
+{
+"id": 10,
+"name": "Boosted Gear",
+"type": "Sacred Gear Ability",
+"users": ["Issei Hyoudou"],
+"description": "The ability to double the user's physical strength and magical power every 10 seconds, breaking natural limits through sequential multiplication.",
+"relatedItems": ["Boosted Gear", "Ddraig"],
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "The power can be transferred to allies or inanimate objects to temporarily amplify their performance to extreme levels."
+},
+{
+"id": 11,
+"name": "Zenith Tempest",
+"type": "Sacred Gear Ability",
+"users": ["Dulio Gesualdo"],
+"description": "The absolute control over all natural weather phenomena, atmospheric pressures, and elemental climates across a massive radius.",
+"relatedItems": ["Zenith Tempest", "Longinus"],
+"spoiler": false,
+"source": "Light Novel Vol. 12",
+"fact": "It is ranked as the second strongest Longinus-class Sacred Gear, capable of manifesting localized disasters instantly."
+},
+{
+"id": 12,
+"name": "Mirror Alice",
+"type": "Sacred Gear Ability",
+"users": ["Tsubaki Shinra"],
+"description": "A defensive ability that summons a specialized mirror to absorb a targeted attack and immediately project a replica of equal power back at the sender.",
+"relatedItems": ["Mirror Alice"],
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "The mirror cannot absorb purely physical blows efficiently, making it primarily a countermeasure for magical and energy projectiles."
+},
+{
+"id": 13,
+"name": "Kankara Formula",
+"type": "Magic",
+"users": ["Ajuka Beelzebub"],
+"description": "A highly advanced, specialized form of calculation magic that allows the user to alter the laws of physics and phenomenon formulas by typing directly into space using a demonic interface.",
+"relatedItems": ["Evil Pieces"],
+"spoiler": false,
+"source": "Light Novel Vol. 6",
+"fact": "Ajuka used the principles of this formula to build and program the entire structural framework of the Underworld's Evil Piece system."
+},
+{
+"id": 14,
+"name": "Holy Lightning",
+"type": "Magic",
+"users": ["Akeno Himejima"],
+"description": "A destructive offensive magic created by merging demonic lightning with holy light attributes inherited from Fallen Angel ancestry.",
+"relatedItems": ["Fallen Angel Wings"],
+"spoiler": false,
+"source": "Light Novel Vol. 3",
+"fact": "Because it incorporates holy light, this technique originally caused self-harm to Akeno's Devil physiology until she mastered the exact proportions."
+},
+{
+"id": 15,
+"name": "Juggernaut Drive",
+"type": "Technique",
+"users": ["Issei Hyoudou", "Vali Lucifer"],
+"description": "A forbidden, seal-breaking transformation that overrides the user's sanity and life force to temporarily unlock the complete, unrestricted power of the Heavenly Dragons.",
+"relatedItems": ["Boosted Gear", "Divine Dividing", "Ddraig", "Albion"],
+"spoiler": true,
+"source": "Light Novel Vol. 6",
+"fact": "Activating the drive triggers a deep chant fueled by the lingering grudges of previous wielders, rapidly draining the user's lifespan during deployment."
+}
+]
