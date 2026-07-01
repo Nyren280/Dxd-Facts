@@ -1,1 +1,124 @@
-{}
+[
+{
+"id": 1,
+"name": "Boosted Gear",
+"type": "Longinus",
+"owner": "Issei Hyoudou",
+"appearance": "A red gauntlet with a green jewel on the left hand that transforms into a full arm-covering gauntlet as it levels up.",
+"abilities": [
+"Boost",
+"Transfer",
+"Penetrate",
+"Illegal Move Triaina"
+],
+"balanceBreaker": "Boosted Gear Scale Mail",
+"relatedEntities": [
+"Ddraig",
+"Welsh Dragon",
+"Heavenly Dragons"
+],
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "One of the thirteen original Longinus-class Sacred Gears, housing the soul of the Welsh Dragon, Ddraig. Its core ability is to double the user's power every ten seconds without an upper limit until the user's physical body breaks down."
+},
+{
+"id": 2,
+"name": "Divine Dividing",
+"type": "Longinus",
+"owner": "Vali Lucifer",
+"appearance": "A pair of glowing white, mechanical-looking dragon wings on the user's back.",
+"abilities": [
+"Divide",
+"Reflect",
+"Half Diminution"
+],
+"balanceBreaker": "Divine Dividing Scale Mail",
+"relatedEntities": [
+"Albion",
+"Vanishing Dragon",
+"Heavenly Dragons"
+],
+"spoiler": false,
+"source": "Light Novel Vol. 4",
+"fact": "The white counterpart to the Boosted Gear, housing the Vanishing Dragon, Albion. It can cut an opponent's power in half upon physical contact or close proximity, transferring that drained energy to the user."
+},
+{
+"id": 3,
+"name": "Twilight Healing",
+"type": "Sacred Gear",
+"owner": "Asia Argento",
+"appearance": "A pair of glowing, ornate gold and green rings worn on both hands.",
+"abilities": [
+"Absolute Healing",
+"Draconic Communication"
+],
+"balanceBreaker": "Twilight Saint Chariot",
+"relatedEntities": [
+"Rias Gremory Peerage"
+],
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "A rare high-tier Sacred Gear capable of healing any living being, including Devils and Fallen Angels, which normally reject holy healing. Its immense value led to Asia being exploited and targeted by rogue Fallen Angels."
+},
+{
+"id": 4,
+"name": "Sword Birth",
+"type": "Sacred Gear",
+"owner": "Yuuto Kiba",
+"appearance": "A dark aura manifested through the user's hands that extracts blades directly from the ground.",
+"abilities": [
+"Demon Sword Creation",
+"Attribute Customization"
+],
+"balanceBreaker": "Sword of Betrayer",
+"relatedEntities": [
+"Holy Sword Project"
+],
+"spoiler": true,
+"source": "Light Novel Vol. 3",
+"fact": "Allows the user to create an infinite variety of demonic swords with specific elemental or conceptual attributes tailored to an opponent's weakness. During the Kokabiel crisis, Kiba merged this with Holy Power to forge a unique Holy-Demonic sword."
+},
+{
+"id": 5,
+"name": "Forbidden Balor View",
+"type": "Sacred Gear",
+"owner": "Gasper Vladi",
+"appearance": "A dark purple mist or aura that manifests around the user's eyes.",
+"abilities": [
+"Time Freezing",
+"Shadow Manipulation"
+],
+"balanceBreaker": "Forbidden Invade Balor Princess",
+"relatedEntities": [
+"Balor",
+"Evil Eye"
+],
+"spoiler": false,
+"source": "Light Novel Vol. 4",
+"fact": "A highly unstable Sacred Gear that freezes the perception of time for anything or anyone within the user's field of vision. Because Gasper's mixed heritage made it too dangerous to control, he was sealed away until Rias obtained permission to train him."
+},
+{
+"id": 6,
+"name": "True Longinus",
+"type": "Longinus",
+"owner": "Cao Cao",
+"appearance": "A majestic, ornate spear that radiates intense, divine golden light.",
+"abilities": [
+"Holy Attribute",
+"Light Spear Generation",
+"Polar Night Longinus Seventh Heavenly Star"
+],
+"balanceBreaker": "Polar Night Longinus Chakra Valvarn",
+"relatedEntities": [
+"God of the Bible",
+"Spear of Destiny"
+],
+"spoiler": false,
+"source": "Light Novel Vol. 9",
+"fact": "The first and strongest of all original Longinus-class Sacred Gears, recognized as the actual spear used to pierce Jesus Christ. It possesses absolute holy power capable of easily vaporizing High-tier Devils and sealing ultimate-class threats."
+},
+{
+"id": 7,
+"name": "Zenith Tempest",
+"type": "Longinus",
+"owner": "Dulio Gesualdo",
