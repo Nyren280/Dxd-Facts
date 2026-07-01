@@ -6,10 +6,10 @@ A GitHub-hosted database for a Discord webhook bot that sends one unique High Sc
 
 * 📅 Daily rotating facts
 * 🔄 No repeated facts until a category is completed
-* 📚 Multiple databases/categories
+* 📚 Multiple database categories
 * 🛠️ Easy expansion by adding new JSON files
 * 🌐 GitHub-hosted data
-* 🤖 Designed for Scriptable Discord webhook automation
+* 🤖 Designed for Discord webhook automation
 
 ## Repository Structure
 
@@ -39,27 +39,25 @@ highschool-dxd-facts/
 
 | Category | Description |
 |----------|-------------|
-| Characters | Character profiles and facts |
+| Characters | Character profiles and information |
 | Devils | Devil characters, ranks, and clans |
-| Fallen Angels | Fallen angel information |
-| Angels | Angel hierarchy and lore |
-| Dragons | Dragons and dragon-related facts |
-| Sacred Gears | Sacred Gear users and abilities |
-| Abilities | Powers, techniques, and skills |
+| Fallen Angels | Fallen angel lore and details |
+| Angels | Angel hierarchy and backstory |
+| Dragons | Dragon species and related information |
+| Sacred Gears | Sacred Gear users and their abilities |
+| Abilities | Powers, techniques, and special skills |
 | Factions | Groups and organizations |
 | Clans | Families and bloodlines |
-| Locations | Important places |
+| Locations | Important places in the series |
 | Battles | Major fights and events |
-| Lore | Worldbuilding information |
-| Light Novel | Light novel volumes and story details |
-| Anime | Anime adaptation facts |
+| Lore | Worldbuilding and canon information |
+| Light Novel | Volumes and story details |
+| Anime | Adaptation facts |
 | Trivia | Random High School DxD facts |
 
 ## JSON Format
 
-Each database contains an array of facts.
-
-Example:
+Each database file contains an array of facts in the following format:
 
 ```json
 {
