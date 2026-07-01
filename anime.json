@@ -1,1 +1,191 @@
-{}
+[
+{
+"id": 1,
+"season": "High School DxD (Season 1)",
+"title": "Diabolos of the Old School Building",
+"episodeRange": "1-6",
+"studio": "TNK",
+"releaseYear": "2012",
+"arc": "Red Dragon Emperor's Awakening Arc - Part 1",
+"mainEvents": [
+"Issei Hyoudou is assassinated by Fallen Angel Raynare on his first date.",
+"Rias Gremory reincarnates Issei as a Devil using her Evil Pieces.",
+"Asia Argento is rescued from the Fallen Angels and reborn as a Devil Bishop."
+],
+"introducedCharacters": [
+"Issei Hyoudou",
+"Rias Gremory",
+"Akeno Himejima",
+"Koneko Toujou",
+"Yuuto Kiba",
+"Asia Argento",
+"Raynare"
+],
+"spoiler": true,
+"source": "High School DxD Season 1 Episodes 1-6",
+"fact": "This initial arc establishes the supernatural underworld hierarchy and Issei's transition from human to devil. The anime adaptation streamlines the introductory chapters of the first light novel volume to accelerate the pacing."
+},
+{
+"id": 2,
+"season": "High School DxD (Season 1)",
+"title": "Phoenix of the Rating Game",
+"episodeRange": "7-12",
+"studio": "TNK",
+"releaseYear": "2012",
+"arc": "Red Dragon Emperor's Awakening Arc - Part 2",
+"mainEvents": [
+"The Gremory Peerage trains for and participates in an official Rating Game.",
+"Rias Gremory forfeits the match to save an exhausted and defeated Issei.",
+"Issei crashes the Underworld wedding ceremony and defeats Riser Phenex using dragon power."
+],
+"introducedCharacters": [
+"Riser Phenex",
+"Ravel Phenex",
+"Sirzechs Lucifer",
+"Grayfia Lucifuge"
+],
+"spoiler": true,
+"source": "High School DxD Season 1 Episodes 7-12",
+"fact": "Adapting the second volume of the light novel, this arc introduces the competitive Rating Game system of the Underworld. The season finale features an anime-exclusive conclusion showing Issei and Rias flying off together on a griffin."
+},
+{
+"id": 3,
+"season": "High School DxD New (Season 2)",
+"title": "Excalibur of the Holy Geek",
+"episodeRange": "1-6",
+"studio": "TNK",
+"releaseYear": "2013",
+"arc": "Excalibur of the Holy Geek Arc",
+"mainEvents": [
+"Vatican Exorcists arrive in Kuoh Town seeking stolen Holy Sword fragments.",
+"Yuuto Kiba's traumatic history regarding the Holy Sword Project is uncovered.",
+"The rogue Fallen Angel Kokabiel attempts to instigate a renewed Three-Faction war."
+],
+"introducedCharacters": [
+"Xenovia Quarta",
+"Irina Shidou",
+"Kokabiel",
+"Freed Sellzen",
+"Vali Lucifer"
+],
+"spoiler": true,
+"source": "High School DxD New Episodes 1-6",
+"fact": "This arc covers Light Novel Volume 3 and marks the introduction of the White Dragon Emperor, Vali Lucifer. The anime consolidated several secondary fight sequences to give Yuuto Kiba's personal revenge narrative a sharper emotional focus."
+},
+{
+"id": 4,
+"season": "High School DxD New (Season 2)",
+"title": "Vampire of the Occult Research Club",
+"episodeRange": "7-12",
+"studio": "TNK",
+"releaseYear": "2013",
+"arc": "Vampire of the Occult Research Club Arc",
+"mainEvents": [
+"Gasper Vladi is officially unsealed from his isolation room within the academy.",
+"The leaders of the Angels, Devils, and Fallen Angels gather for a peace summit.",
+"The Old Satan Faction launches a surprise assault to disrupt the diplomatic treaty."
+],
+"introducedCharacters": [
+"Gasper Vladi",
+"Azazel",
+"Michael",
+"Serafall Leviathan",
+"Katerea Leviathan"
+],
+"spoiler": true,
+"source": "High School DxD New Episodes 7-12",
+"fact": "Based on Volume 4, this arc concludes the second season by cementing the formal peace alliance among the Three Factions. The anime version moves the battle locations closer to the main school building to optimize the production's layout designs."
+},
+{
+"id": 5,
+"season": "High School DxD BorN (Season 3)",
+"title": "The Cat and the Dragon",
+"episodeRange": "1-5",
+"studio": "TNK",
+"releaseYear": "2015",
+"arc": "Motherly Dragon of the Kuoh Academy Arc",
+"mainEvents": [
+"The Occult Research Club travels to the Underworld for intense summer training.",
+"Kuroka ambushes Koneko Toujou in an effort to drag her away from her friends.",
+"The alliance forces engage and neutralize the Norse god Loki's apocalyptic threat."
+],
+"introducedCharacters": [
+"Kuroka",
+"Rossweisse",
+"Loki",
+"Odin",
+"Tannin"
+],
+"spoiler": true,
+"source": "High School DxD BorN Episodes 1-5",
+"fact": "This arc pieces together plot points from Light Novel Volumes 5 and 7 to elaborate on Koneko's heritage. The confrontation with the rogue deity Loki was significantly advanced in the anime timeline compared to the source material's chronology."
+},
+{
+"id": 6,
+"season": "High School DxD BorN (Season 3)",
+"title": "The Trihexa and the Underworld Crisis",
+"episodeRange": "6-12",
+"studio": "TNK",
+"releaseYear": "2015",
+"arc": "King of Dragon Bridge Arc / Anime Original Arc",
+"mainEvents": [
+"Diodora Astaroth schemes to kidnap Asia Argento during a high-profile tour.",
+"Issei Hyoudou undergoes a temporary, catastrophic transformation into the Juggernaut Drive.",
+"Rias Gremory becomes trapped within a separate dimension, prompting an original rescue plot."
+],
+"introducedCharacters": [
+"Diodora Astaroth",
+"Shalba Beelzebub",
+"Cao Cao"
+],
+"spoiler": true,
+"source": "High School DxD BorN Episodes 6-12",
+"fact": "This segment altered the narrative of Volume 6 and integrated major anime-original subplots that heavily deviated from the light novels. The backlash from these pacing and canon alterations ultimately led to a change in the production studio for the subsequent season."
+},
+{
+"id": 7,
+"season": "High School DxD Hero (Season 4)",
+"title": "Holydays in the Underworld",
+"episodeRange": "1-4",
+"studio": "Passione",
+"releaseYear": "2018",
+"arc": "Holydays in the Underworld Arc",
+"mainEvents": [
+"The narrative actively retcons the anime-original events of Season 3 via an introductory 'Episode 0'.",
+"The Young Devils Gathering takes place, showcasing the elite next-generation leaders.",
+"Issei Hyoudou unlocks the stable Cardinal Crimson Promotion state during a confrontation."
+],
+"introducedCharacters": [
+"Sairaorg Bael",
+"Cao Cao (Full Introduction)",
+"Georg"
+],
+"spoiler": true,
+"source": "High School DxD Hero Episodes 1-4",
+"fact": "Season 4 features a completely revamped art style intended to mirror the original illustrations by Miyama-Zero. The production switch to studio Passione allowed the team to align the story strictly with Volume 7 of the light novels."
+},
+{
+"id": 8,
+"season": "High School DxD Hero (Season 4)",
+"title": "Pandemonium at the School Festival",
+"episodeRange": "5-12",
+"studio": "Passione",
+"releaseYear": "2018",
+"arc": "Pandemonium at the School Festival Arc",
+"mainEvents": [
+"The Kuoh Academy school excursion to Kyoto is targeted by the human Hero Faction.",
+"The team initiates a coordinated rescue operation to free the captured leader Yasaka.",
+"The decisive Rating Game between Rias Gremory and Sairaorg Bael reaches its climax."
+],
+"introducedCharacters": [
+"Yasaka",
+"Kunou",
+"Dulio Gesualdo",
+"Jeanne",
+"Heracles"
+],
+"spoiler": true,
+"source": "High School DxD Hero Episodes 5-12",
+"fact": "Adapting Volumes 9 and 10, this arc delivers a heavy emphasis on strategic team combat and Issei's physical limitations. The season concludes with Issei's formal romantic confession to Rias, resolving a core emotional arc established since the first episode."
+}
+]
