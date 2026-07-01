@@ -1,1 +1,201 @@
-{}
+[
+{
+"id": 1,
+"title": "The Great War of the Three Factions",
+"topic": "World History",
+"era": "Ancient Era",
+"relatedCharacters": [
+"God of the Bible",
+"Lucifer",
+"Leviathan",
+"Satan",
+"Beelzebub",
+"Azazel"
+],
+"relatedGroups": [
+"Angels",
+"Devils",
+"Fallen Angels"
+],
+"importance": "The foundational historical event that shaped the modern political landscape of the supernatural world.",
+"spoiler": false,
+"source": "Light Novel Vol. 3",
+"fact": "A massive, ancient conflict fought among the Angels, Devils, and Fallen Angels that resulted in catastrophic casualties for all sides. The war ground to a halt after the two Heavenly Dragons, Ddraig and Albion, disrupted the battlefield and forced the factions to inadvertently team up against them."
+},
+{
+"id": 2,
+"title": "The Evil Pieces System",
+"topic": "Power System",
+"era": "Post-Great War Era",
+"relatedCharacters": [
+"Ajuka Beelzebub",
+"Rias Gremory",
+"Issei Hyoudou"
+],
+"relatedGroups": [
+"Devils",
+"72 Pillars"
+],
+"importance": "Allows the Devil race to replenish their numbers by reincarnating humans and other races as Devils.",
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "Created by Ajuka Beelzebub, this system utilizes 16 chess pieces infused with demonic technology to reincarnate other beings into a Devil's peerage. The pieces grant specific trait boosts based on standard chess roles like Rook, Knight, Bishop, Queen, and Pawn."
+},
+{
+"id": 3,
+"title": "Sacred Gears and Longinus",
+"topic": "Power System",
+"era": "Creation Era",
+"relatedCharacters": [
+"God of the Bible",
+"Issei Hyoudou",
+"Vali Lucifer",
+"Cao Cao"
+],
+"relatedGroups": [
+"Humans",
+"Grigori"
+],
+"importance": "The primary source of supernatural power for humans, driving much of the series' combat mechanics.",
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "Sacred Gears are unique items implanted into human souls by the God of the Bible to bestow miraculous abilities. The thirteen strongest Sacred Gears are classified as Longinus, possessing power capable of slaying gods or sealing high-tier entities."
+},
+{
+"id": 4,
+"title": "The Rating Game System",
+"topic": "Supernatural Rules",
+"era": "Modern Era",
+"relatedCharacters": [
+"Rias Gremory",
+"Riser Phenex",
+"Sairaorg Bael",
+"Ajuka Beelzebub"
+],
+"relatedGroups": [
+"Devils",
+"Rating Game Committee"
+],
+"importance": "Acts as a non-lethal military substitute and social ladder for Devil nobility to settle political disputes.",
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "Rating Games are competitive tactical simulations that utilize a Devil's peerage in structured combat mirroring a game of chess. They were developed after the Great War to prevent further pure-blood casualties while letting noble houses test their military might."
+},
+{
+"id": 5,
+"title": "The Fall and Death of God",
+"topic": "World History",
+"era": "End of the Great War",
+"relatedCharacters": [
+"God of the Bible",
+"Sirzechs Lucifer",
+"Michael",
+"Azazel"
+],
+"relatedGroups": [
+"Angels",
+"Devils",
+"Fallen Angels"
+],
+"importance": "A closely guarded secret that fundamentally altered the governance of Heaven and the Underworld.",
+"spoiler": true,
+"source": "Light Novel Vol. 3",
+"fact": "During the climax of the Great War, the God of the Bible perished alongside the four original Maous due to extreme exhaustion and mortal wounds. Heaven managed to hide this fact from the public by utilizing the System to maintain natural laws and human prayers."
+},
+{
+"id": 6,
+"title": "The Juggernaut Drive",
+"topic": "Power System",
+"era": "Modern Era",
+"relatedCharacters": [
+"Issei Hyoudou",
+"Vali Lucifer",
+"Ddraig",
+"Albion"
+],
+"relatedGroups": [
+"Heavenly Dragons"
+],
+"importance": "The ultimate, forbidden transformation of the Two Heavenly Dragons' Sacred Gears.",
+"spoiler": true,
+"source": "Light Novel Vol. 6",
+"fact": "Juggernaut Drive overrides the user's conscious mind by tapping directly into the absolute, historical malice of past hosts to manifest the dragon's true power. Activating this state rapidly consumes the user's lifespan and sanity unless properly countered or mastered."
+},
+{
+"id": 7,
+"title": "The Three Factions Peace Treaty",
+"topic": "World History",
+"era": "Modern Era",
+"relatedCharacters": [
+"Sirzechs Lucifer",
+"Michael",
+"Azazel",
+"Issei Hyoudou"
+],
+"relatedGroups": [
+"Angels",
+"Devils",
+"Fallen Angels"
+],
+"importance": "Ended thousands of years of hostility and unified the Three Factions into a singular global alliance.",
+"spoiler": true,
+"source": "Light Novel Vol. 4",
+"fact": "Following a summit disrupted by terrorists in Kuoh Town, the leaders of the Angels, Devils, and Fallen Angels officially signed an unprecedented non-aggression pact. This treaty shifted their focus from inter-faction warfare to mutual survival and containment of rogue organizations."
+},
+{
+"id": 8,
+"title": "Khaos Brigade and the Faction Splits",
+"topic": "World History",
+"era": "Modern Era",
+"relatedCharacters": [
+"Ophis",
+"Cao Cao",
+"Vali Lucifer",
+"Shalba Beelzebub"
+],
+"relatedGroups": [
+"Khaos Brigade",
+"Hero Faction",
+"Old Satan Faction"
+],
+"importance": "Serves as the primary antagonistic alliance pushing the world toward structural instability.",
+"spoiler": true,
+"source": "Light Novel Vol. 5",
+"fact": "Formed under the nominal leadership of the Infinite Dragon God Ophis, the Khaos Brigade is a syndicate of rogue supernatural radicals from various mythologies. The alliance is split into distinct factions, each executing separate agendas to destabilize global peace."
+},
+{
+"id": 9,
+"title": "The Red Dragon Emperor's Promotion Rule",
+"topic": "Supernatural Rules",
+"era": "Modern Era",
+"relatedCharacters": [
+"Issei Hyoudou",
+"Ajuka Beelzebub"
+],
+"relatedGroups": [
+"Devils"
+],
+"importance": "Allows Pawn-class characters to temporarily match or exceed the baseline power of higher chess pieces.",
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "Under the mechanics of the Evil Pieces system, a Pawn who enters enemy territory can undergo a Promotion to assume the attributes of a Queen, Rook, Knight, or Bishop. Issei exploits this rule extensively to amplify his draconic parameters mid-battle."
+},
+{
+"id": 10,
+"title": "The Dragon Gates and Ley Lines",
+"topic": "Mythology",
+"era": "Ancient Era",
+"relatedCharacters": [
+"Yasaka",
+"Kunou"
+],
+"relatedGroups": [
+"Youkai Faction",
+"Hero Faction"
+],
+"importance": "The foundational environmental energy grid that anchors earthly regions like Kyoto.",
+"spoiler": true,
+"source": "Light Novel Vol. 9",
+"fact": "Ley lines and Dragon Gates are subterranean rivers of immense spiritual energy flowing throughout the Earth's crust, heavily tied to regional Youkai domains. Tampering with or altering these flows can destabilize localized realities or open interdimensional portals."
+}
+]
