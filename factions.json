@@ -81,4 +81,26 @@
 "leader": "Shalba Beelzebub",
 "members": ["Katarea Leviathan", "Creereley Asmodeus", "Diodora Astaroth"],
 "allies": ["Khaos Brigade"],
-"enemies": ["Devils", "Heaven", "Grigori"],
+"enemies": ["Devils", "Heaven", "Grigori"],"goal": "Overthrow the current democratic Devil government and reclaim the Underworld in the name of the original Satans' bloodlines.",
+"baseOfOperations": "Hidden Underworld Bases",
+"status": "Defeated",
+"spoiler": true,
+"source": "Light Novel Vol. 4",
+"fact": "Composed of direct descendants of the original Four Satans who fiercely resented losing their birthrights and rule during the civil war. They initiated several assassination attempts and terror plots before being completely wiped out."
+},
+{
+"id": 7,
+"name": "Vali Team",
+"type": "Dragon Group",
+"leader": "Vali Lucifer",
+"members": ["Kuroka", "Bikou", "Arthur Pendragon", "Le Fay Pendragon", "Gogmagog"],
+"allies": ["Occult Research Club", "Grigori"],
+"enemies": ["Hero Faction", "Old Satan Faction", "Loki"],
+"goal": "Seek out exhilarating battles with powerful entities and protect Vali's fated rivalry with Issei Hyoudou.",
+"baseOfOperations": "Mobile / Vali's Safehouses",
+"status": "Active",
+"spoiler": true,
+"source": "Light Novel Vol. 4",
+"fact": "Originally formed as a sub-faction within the Khaos Brigade, this group quickly defected after Vali rejected the extreme terror methods of the other members. They frequently act as wildcards, occasionally assisting the Gremory peerage against mutual threats."
+}
+]
