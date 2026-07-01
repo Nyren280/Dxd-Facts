@@ -1,1 +1,134 @@
-{}
+[
+{
+"id": 1,
+"title": "Issei Hyoudou vs. Raynare",
+"arc": "Red Dragon Emperor's Awakening Arc",
+"fighters": ["Issei Hyoudou", "Raynare"],
+"location": "Kuoh Town Abandoned Church Basement",
+"winner": "Issei Hyoudou",
+"importance": "Character Growth / Power Reveal",
+"spoiler": true,
+"source": "Light Novel Vol. 1",
+"fact": "Issei's first real battle where he summons his Boosted Gear for the first time to avenge Asia Argento. He successfully defeats the Fallen Angel Raynare with the assistance of the Gremory Peerage."
+},
+{
+"id": 2,
+"title": "Gremory Peerage vs. Phenex Peerage",
+"arc": "Red Dragon Emperor's Awakening Arc",
+"fighters": ["Rias Gremory", "Issei Hyoudou", "Akeno Himejima", "Yuuto Kiba", "Koneko Toujou", "Riser Phenex", "Yubelluna", "Mila", "Ile", "Nel"],
+"location": "Replica Kuoh Academy (Rating Game Space)",
+"winner": "Phenex Peerage",
+"importance": "Tactical Introduction / Major Turning Point",
+"spoiler": true,
+"source": "Light Novel Vol. 2",
+"fact": "The official Rating Game held to determine Rias's marriage fate. Despite a brilliant tactical showing by Rias, she ultimately forfeits to save Issei's life from Riser's immortal flames."
+},
+{
+"id": 3,
+"title": "Issei Hyoudou vs. Riser Phenex",
+"arc": "Red Dragon Emperor's Awakening Arc",
+"fighters": ["Issei Hyoudou", "Riser Phenex"],
+"location": "Underworld Phenex Wedding Hall",
+"winner": "Issei Hyoudou",
+"importance": "Character Growth / Plot Resolution",
+"spoiler": true,
+"source": "Light Novel Vol. 2",
+"fact": "Issei crashes Rias's engagement party and challenges Riser to a duel using a Holy Water vial and a dragon-sacrificed arm. He defeats the immortal devil by repeatedly boosting and transferring power to a holy cross item."
+},
+{
+"id": 4,
+"title": "Kuoh Alliance vs. Kokabiel",
+"arc": "Birth of the Breast Dragon Emperor Arc",
+"fighters": ["Rias Gremory", "Issei Hyoudou", "Akeno Himejima", "Yuuto Kiba", "Koneko Toujou", "Xenovia Quarta", "Irina Shidou", "Kokabiel", "Vali Lucifer"],
+"location": "Kuoh Academy Academy Ground",
+"winner": "Kuoh Alliance / Vali Lucifer",
+"importance": "Faction Alliance / Power Reveal",
+"spoiler": true,
+"source": "Light Novel Vol. 3",
+"fact": "The rogue Cadre Kokabiel attempts to start another Great War by destroying Kuoh Town with stolen Excaliburs. While the students hold their ground, the battle ends abruptly when Vali Lucifer arrives under Azazel's orders to arrest Kokabiel."
+},
+{
+"id": 5,
+"title": "Issei Hyoudou vs. Vali Lucifer",
+"arc": "Birth of the Breast Dragon Emperor Arc",
+"fighters": ["Issei Hyoudou", "Vali Lucifer"],
+"location": "Kuoh Academy (Frozen Time Barrier)",
+"winner": "Issei Hyoudou",
+"importance": "Rivalry Established / Power Reveal",
+"spoiler": true,
+"source": "Light Novel Vol. 4",
+"fact": "The first major clash between the current Welsh Dragon and Vanishing Dragon. Issei unlocks Balance Breaker ahead of schedule by stealing Vali's dividing power, forcing a tactical retreat from the White Dragon Emperor."
+},
+{
+"id": 6,
+"title": "Three Factions Alliance vs. Loki",
+"arc": "Heroic Opposites Arc",
+"fighters": ["Issei Hyoudou", "Rias Gremory", "Vali Lucifer", "Arthur Pendragon", "Sairaorg Bael", "Rossweisse", "Loki"],
+"location": "Northern Europe Isolated Dimension",
+"winner": "Three Factions Alliance",
+"importance": "Cross-Faction Cooperation / Major Threat Neutralization",
+"spoiler": true,
+"source": "Light Novel Vol. 7",
+"fact": "The Norse God of Mischief tries to trigger Ragnarok by summoning Fenrir. A joint strike force of young Devils and the Vali Team successfully defeat him using Mjolnir replicas provided by Odin."
+},
+{
+"id": 7,
+"title": "Issei Hyoudou vs. Diodora Astaroth",
+"arc": "Heroic Opposites Arc",
+"fighters": ["Issei Hyoudou", "Diodora Astaroth"],
+"location": "Astaroth Territory Underground Temple",
+"winner": "Issei Hyoudou",
+"importance": "Character Growth / Villain Defeat",
+"spoiler": true,
+"source": "Light Novel Vol. 6",
+"fact": "Driven by rage over Asia's capture and Diodora's twisted manipulations, Issei completely overpowers the pure-blood devil using his advanced Scale Mail form. Diodora is left broken before fleeing to his final demise."
+},
+{
+"id": 8,
+"title": "Issei Hyoudou vs. Shalba Beelzebub",
+"arc": "Heroic Opposites Arc",
+"fighters": ["Issei Hyoudou", "Shalba Beelzebub"],
+"location": "The Dimensional Gap Border",
+"winner": "Issei Hyoudou",
+"importance": "Forbidden Transformation / Major Turning Point",
+"spoiler": true,
+"source": "Light Novel Vol. 6",
+"fact": "Believing Asia was permanently killed, Issei triggers the forbidden Juggernaut Drive, wiping out Shalba's forces and lethally wounding the Old Satan descendant with absolute, uncontrollable dragon power."
+},
+{
+"id": 9,
+"title": "Gremory Peerage vs. Bael Peerage",
+"arc": "Legend of the Oppai Dragon and His Lively Companions Arc",
+"fighters": ["Rias Gremory", "Issei Hyoudou", "Yuuto Kiba", "Akeno Himejima", "Sairaorg Bael", "Regulus", "Kuisha Abaddon"],
+"location": "Underworld Special Rating Game Stadium",
+"winner": "Gremory Peerage",
+"importance": "Highest-Level Tactical Victory / Climactic Event",
+"spoiler": true,
+"source": "Light Novel Vol. 10",
+"fact": "A monumental Rating Game match between the top two young Devil group leaders. The match serves as a display of peak peerage synergy, culminating in the historic downing of the Bael faction."
+},
+{
+"id": 10,
+"title": "Issei Hyoudou vs. Sairaorg Bael",
+"arc": "Legend of the Oppai Dragon and His Lively Companions Arc",
+"fighters": ["Issei Hyoudou", "Sairaorg Bael"],
+"location": "Underworld Special Rating Game Stadium",
+"winner": "Issei Hyoudou",
+"importance": "Character Growth / Power Realization",
+"spoiler": true,
+"source": "Light Novel Vol. 10",
+"fact": "The legendary physical showdown of the Volume 10 Rating Game. Issei unlocks his Cardinal Crimson Promotion form to counter Sairaorg's breakdown-beast armor, winning the fist fight by an incredibly narrow margin."
+},
+{
+"id": 11,
+"title": "DxD Alliance vs. Cao Cao",
+"arc": "Legend of the Oppai Dragon and His Lively Companions Arc",
+"fighters": ["Issei Hyoudou", "Vali Lucifer", "Cao Cao"],
+"location": "Nijo Castle, Kyoto",
+"winner": "DxD Alliance",
+"importance": "Major Faction Climax / Power Counter",
+"spoiler": true,
+"source": "Light Novel Vol. 9",
+"fact": "The Hero Faction leader Cao Cao uses the True Longinus to systematically overwhelm the supernatural beings in Kyoto. Issei and Vali cooperate to break through Cao Cao's tactical vision and force a withdrawal."
+}
+]
