@@ -1,8 +1,8 @@
-High School DxD Facts
+# High School DxD Facts
 
 A GitHub-hosted database for a Discord webhook bot that sends one unique High School DxD fact daily.
 
-Features
+## Features
 
 * 📅 Daily rotating facts
 * 🔄 No repeated facts until a category is completed
@@ -11,8 +11,9 @@ Features
 * 🌐 GitHub-hosted data
 * 🤖 Designed for Scriptable Discord webhook automation
 
-Repository Structure
+## Repository Structure
 
+```
 highschool-dxd-facts/
 ├── README.md
 ├── database.json
@@ -29,35 +30,38 @@ highschool-dxd-facts/
 ├── locations.json
 ├── battles.json
 ├── lore.json
-├── light_novel.json
+├── lightnovel.json
 ├── anime.json
 └── trivia.json
+```
 
-Categories
+## Categories
 
-Category	Description
-Characters	Character profiles and facts
-Devils	Devil characters, ranks, and clans
-Fallen Angels	Fallen angel information
-Angels	Angel hierarchy and lore
-Dragons	Dragons and dragon-related facts
-Sacred Gears	Sacred Gear users and abilities
-Abilities	Powers, techniques, and skills
-Factions	Groups and organizations
-Clans	Families and bloodlines
-Locations	Important places
-Battles	Major fights and events
-Lore	Worldbuilding information
-Light Novel	Light novel volumes and story details
-Anime	Anime adaptation facts
-Trivia	Random High School DxD facts
+| Category | Description |
+|----------|-------------|
+| Characters | Character profiles and facts |
+| Devils | Devil characters, ranks, and clans |
+| Fallen Angels | Fallen angel information |
+| Angels | Angel hierarchy and lore |
+| Dragons | Dragons and dragon-related facts |
+| Sacred Gears | Sacred Gear users and abilities |
+| Abilities | Powers, techniques, and skills |
+| Factions | Groups and organizations |
+| Clans | Families and bloodlines |
+| Locations | Important places |
+| Battles | Major fights and events |
+| Lore | Worldbuilding information |
+| Light Novel | Light novel volumes and story details |
+| Anime | Anime adaptation facts |
+| Trivia | Random High School DxD facts |
 
-JSON Format
+## JSON Format
 
 Each database contains an array of facts.
 
 Example:
 
+```json
 {
   "id": 1,
   "name": "Example",
@@ -65,8 +69,9 @@ Example:
   "spoiler": false,
   "source": "Light Novel"
 }
+```
 
-Adding New Categories
+## Adding New Categories
 
 1. Create a new JSON file.
 2. Add it to database.json.
@@ -75,7 +80,7 @@ Adding New Categories
 
 No script changes required.
 
-Disclaimer
+## Disclaimer
 
 This project is a fan-made database for informational and entertainment purposes.
 
