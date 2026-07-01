@@ -1,34 +1,92 @@
-Generate a valid JSON array for a High School DxD Trivia database.
-
-Output ONLY valid JSON.
-Do NOT include markdown, explanations, or code fences.
-
-Every object must follow this schema exactly:
-
+[
 {
-  "id": 1,
-  "category": "",
-  "difficulty": "",
-  "relatedCharacter": "",
-  "spoiler": false,
-  "source": "",
-  "fact": ""
+"id": 1,
+"category": "Power System",
+"difficulty": "Easy",
+"relatedCharacter": "Issei Hyoudou",
+"spoiler": false,
+"source": "Season 1",
+"fact": "Issei's signature move, 'Dress Break', was invented purely out of his perverse desires and works by destroying the magical energy flowing through a target's clothing to strip them instantly."
+},
+{
+"id": 2,
+"category": "Character",
+"difficulty": "Medium",
+"relatedCharacter": "Sona Sitri",
+"spoiler": false,
+"source": "Light Novel Vol. 5",
+"fact": "Sona Sitri's ultimate life dream is to establish a Rating Game academy in the Underworld that provides equal opportunities to lower-class and reincarnated devils."
+},
+{
+"id": 3,
+"category": "Production",
+"difficulty": "Medium",
+"relatedCharacter": "",
+"spoiler": false,
+"source": "Season 4",
+"fact": "The animation studio for the anime was switched from TNK to Passione for the fourth season, High School DxD Hero, in order to adopt an art style that more closely matched Miyama-Zero's original light novel illustrations."
+},
+{
+"id": 4,
+"category": "Character",
+"difficulty": "Easy",
+"relatedCharacter": "Gasper Vladi",
+"spoiler": false,
+"source": "Season 2",
+"fact": "Despite being a vampire and a devil, Gasper is an extreme shut-in who loves human internet culture, video games, and hiding inside a cardboard box to feel secure."
+},
+{
+"id": 5,
+"category": "Power System",
+"difficulty": "Hard",
+"relatedCharacter": "",
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "Mutation Pieces are incredibly rare Evil Pieces that only occur in 1 out of 10 sets. They are required to reincarnate exceptionally powerful individuals who would otherwise cost multiple standard chess pieces."
+},
+{
+"id": 6,
+"category": "Production",
+"difficulty": "Expert",
+"relatedCharacter": "",
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "Author Ichiei Ishibumi based the lore of the twin Heavenly Dragons, Ddraig and Albion, directly on the historical Welsh myth of the red and white dragons fighting under Dinas Emrys."
+},
+{
+"id": 7,
+"category": "Character",
+"difficulty": "Hard",
+"relatedCharacter": "Sirzechs Lucifer",
+"spoiler": false,
+"source": "Light Novel Vol. 5",
+"fact": "Despite being one of the terrifying Four Great Satans ruling the Underworld, Sirzechs has a secret hobby of cosplaying as magical girls from human anime series to pass the time."
+},
+{
+"id": 8,
+"category": "Character",
+"difficulty": "Medium",
+"relatedCharacter": "Kuroka",
+"spoiler": true,
+"source": "Light Novel Vol. 7",
+"fact": "Kuroka was branded a stray devil not out of malice, but because she assassinated her former master to prevent him from performing cruel, fatal biological experiments on her younger sister, Koneko."
+},
+{
+"id": 9,
+"category": "World",
+"difficulty": "Hard",
+"relatedCharacter": "Ophis",
+"spoiler": false,
+"source": "Light Novel Vol. 6",
+"fact": "Ophis, the Infinite Dragon God, is completely genderless and lacks biological traits, but voluntarily chose to manifest as a young human girl because she found the appearance convenient for physical interactions."
+},
+{
+"id": 10,
+"category": "Power System",
+"difficulty": "Expert",
+"relatedCharacter": "",
+"spoiler": false,
+"source": "Light Novel Vol. 3",
+"fact": "The original Excalibur was a singular, god-tier holy weapon that was shattered into seven distinct fragments by the God of the Bible during ancient times because its baseline power was too massive for humans to control safely."
 }
-
-Rules:
-
-* Generate canon High School DxD trivia only.
-* Include fun facts, interesting details, production facts, character facts, and world details.
-* Use information from the anime, light novels, and official material.
-* Do not include fan theories, rumors, fan-made facts, or invented information.
-* Use sequential IDs starting at 1.
-* Keep facts concise (1–2 sentences).
-* difficulty should classify the trivia level (examples: Easy, Medium, Hard, Expert).
-* category should classify the trivia type (examples: Character, World, Anime, Light Novel, Power System, Production).
-* relatedCharacter should list a character when relevant, otherwise use an empty string.
-* spoiler should be true only if the fact reveals important story details.
-* source should reference where the trivia is known from (example: “Season 1”, “Light Novel Vol. 1”).
-
-Focus on interesting, accurate trivia that would work well as a daily Discord fact.
-
-The final output must be a clean JSON array ready to upload to GitHub and use in a Discord webhook bot.
+]
