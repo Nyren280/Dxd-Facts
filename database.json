@@ -1,1 +1,92 @@
-{}
+[
+  {
+    "key": "characters",
+    "label": "Characters",
+    "url": "/characters.json",
+    "enabled": true
+  },
+  {
+    "key": "devils",
+    "label": "Devils",
+    "url": "/devils.json",
+    "enabled": true
+  },
+  {
+    "key": "fallen_angels",
+    "label": "Fallen Angels",
+    "url": "/fallen_angels.json",
+    "enabled": true
+  },
+  {
+    "key": "angels",
+    "label": "Angels",
+    "url": "/angels.json",
+    "enabled": true
+  },
+  {
+    "key": "dragons",
+    "label": "Dragons",
+    "url": "/dragons.json",
+    "enabled": true
+  },
+  {
+    "key": "sacred_gears",
+    "label": "Sacred Gears",
+    "url": "/sacred_gears.json",
+    "enabled": true
+  },
+  {
+    "key": "abilities",
+    "label": "Abilities",
+    "url": "/abilities.json",
+    "enabled": true
+  },
+  {
+    "key": "factions",
+    "label": "Factions",
+    "url": "/factions.json",
+    "enabled": true
+  },
+  {
+    "key": "clans",
+    "label": "Clans",
+    "url": "/clans.json",
+    "enabled": true
+  },
+  {
+    "key": "locations",
+    "label": "Locations",
+    "url": "/locations.json",
+    "enabled": true
+  },
+  {
+    "key": "battles",
+    "label": "Battles",
+    "url": "/battles.json",
+    "enabled": true
+  },
+  {
+    "key": "lore",
+    "label": "Lore",
+    "url": "/lore.json",
+    "enabled": true
+  },
+  {
+    "key": "light_novel",
+    "label": "Light Novel",
+    "url": "/light_novel.json",
+    "enabled": true
+  },
+  {
+    "key": "anime",
+    "label": "Anime",
+    "url": "/anime.json",
+    "enabled": true
+  },
+  {
+    "key": "trivia",
+    "label": "Trivia",
+    "url": "/trivia.json",
+    "enabled": true
+  }
+]
