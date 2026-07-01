@@ -1,1 +1,152 @@
-{}
+[
+{
+"id": 1,
+"volume": "Volume 1",
+"title": "Diabolos of the Old School Building",
+"arc": "The Red Dragon Emperor's Awakening",
+"releaseInfo": "September 20, 2008 (Japan)",
+"mainEvents": [
+"Issei Hyoudou is assassinated by Raynare on his first date.",
+"Rias Gremory reincarnates Issei as a Devil Pawn.",
+"Issei rescues Asia Argento and awakens his Boosted Gear."
+],
+"introducedCharacters": [
+"Issei Hyoudou",
+"Rias Gremory",
+"Akeno Himejima",
+"Koneko Toujou",
+"Yuuto Kiba",
+"Asia Argento",
+"Raynare"
+],
+"spoiler": false,
+"source": "High School DxD Light Novel Vol. 1",
+"fact": "This volume introduces Issei Hyoudou's transition into the supernatural world as a Devil under Rias Gremory. It establishes the base mechanics of Evil Pieces, Sacred Gears, and the conflict with rogue Fallen Angels."
+},
+{
+"id": 2,
+"volume": "Volume 2",
+"title": "Phoenix of the Battle School Building",
+"arc": "The Red Dragon Emperor's Awakening",
+"releaseInfo": "December 20, 2008 (Japan)",
+"mainEvents": [
+"Riser Phenex arrives to claim his arranged marriage with Rias Gremory.",
+"The Occult Research Club participates in a formal Rating Game against Riser's peerage.",
+"Issei crashes the engagement party and defeats Riser by sacrificing his left arm."
+],
+"introducedCharacters": [
+"Riser Phenex",
+"Ravel Phenex",
+"Sirzechs Lucifer",
+"Grayfia Lucifuge"
+],
+"spoiler": false,
+"source": "High School DxD Light Novel Vol. 2",
+"fact": "This volume marks the first official look into Underworld politics and the competitive system of Rating Games. Issei successfully uses a temporary Balance Breaker for the first time to break Rias's unwanted engagement."
+},
+{
+"id": 3,
+"volume": "Volume 3",
+"title": "Excalibur of the Moonlight School Building",
+"arc": "The Birth of the Breast Dragon",
+"releaseInfo": "March 20, 2009 (Japan)",
+"mainEvents": [
+"Church Exorcists arrive in Kuoh Town tracking stolen Excalibur fragments.",
+"Yuuto Kiba rebels to exact revenge for the Holy Sword Project.",
+"Kokabiel orchestrates a crisis at Kuoh Academy and is defeated by Vali Lucifer."
+],
+"introducedCharacters": [
+"Xenovia Quarta",
+"Irina Shidou",
+"Kokabiel",
+"Vali Lucifer",
+"Freed Sellzen"
+],
+"spoiler": true,
+"source": "High School DxD Light Novel Vol. 3",
+"fact": "This volume exposes the major plot twist that the Biblical God and original Satan died during the ancient Great War. It marks the structural entry of the Holy Swords subplot and officially introduces Issei's fated rival, Vali."
+},
+{
+"id": 4,
+"volume": "Volume 4",
+"title": "Vampire of the Summer Vacation",
+"arc": "The Birth of the Breast Dragon",
+"releaseInfo": "July 18, 2009 (Japan)",
+"mainEvents": [
+"Gasper Vladi is unsealed from the old school building basement.",
+"The leaders of the Three Factions hold a peace summit at Kuoh Academy.",
+"The Khaos Brigade makes its debut by launching an assault during the conference."
+],
+"introducedCharacters": [
+"Gasper Vladi",
+"Azazel",
+"Michael",
+"Serafall Leviathan"
+],
+"spoiler": true,
+"source": "High School DxD Light Novel Vol. 4",
+"fact": "A peaceful historic treaty is signed between the Angels, Fallen Angels, and Devils to end their eternal deadlock. Vali Lucifer betrays the Three Factions here to openly align his faction with Katarea Leviathan and the Khaos Brigade."
+},
+{
+"id": 5,
+"volume": "Volume 5",
+"title": "Hellcat of the Underworld Training Camp",
+"arc": "The Birth of the Breast Dragon",
+"releaseInfo": "December 19, 2009 (Japan)",
+"mainEvents": [
+"Rias Gremory's peerage travels to the Underworld for an intensive training camp.",
+"Issei attends a Gathering of Young Devils and meets Sairaorg Bael.",
+"Kuroka attacks Koneko, forcing Issei to unleash a new variation of his power."
+],
+"introducedCharacters": [
+"Sairaorg Bael",
+"Kuroka",
+"Bikou",
+"Odin"
+],
+"spoiler": false,
+"source": "High School DxD Light Novel Vol. 5",
+"fact": "The narrative transitions to the Underworld environment, highlighting the development and training needs of the modern young Devils. It focuses on Koneko's past as a Nekomata and her troubled family relationship with Kuroka."
+},
+{
+"id": 6,
+"volume": "Volume 6",
+"title": "Holy Behind the Scenes of the Girl Pop Star",
+"arc": "The Birth of the Breast Dragon",
+"releaseInfo": "March 20, 2010 (Japan)",
+"mainEvents": [
+"Diodora Astaroth attempts to claim Asia Argento as his Bishop.",
+"The Khaos Brigade's Old Satan Faction invades the Rating Game arena.",
+"Issei transforms into the Juggernaut Drive out of rage before being calmed down by the 'Oppai Dragon' song."
+],
+"introducedCharacters": [
+"Diodora Astaroth",
+"Shalba Beelzebub",
+"Ophis"
+],
+"spoiler": true,
+"source": "High School DxD Light Novel Vol. 6",
+"fact": "This volume concludes the second major story arc and officially spawns the 'Oppai Dragon' children's show phenomenon in the Underworld. It displays the destructive risk of the Juggernaut Drive and introduces the Dragon God Ophis."
+},
+{
+"id": 7,
+"volume": "Volume 7",
+"title": "Ragnarok After the School Festival",
+"arc": "The Heroic Oppai Dragon",
+"releaseInfo": "July 17, 2010 (Japan)",
+"mainEvents": [
+"Loki launches an unauthorized attack on Japan to initiate Ragnarok.",
+"A joint strike team consisting of the Gremory and Vali groups opposes Loki.",
+"Issei receives an armor upgrade from the Norse God Odin to defeat Loki's Fenrir clones."
+],
+"introducedCharacters": [
+"Loki",
+"Rossweisse",
+"Arthur Pendragon",
+"Le Fay Pendragon"
+],
+"spoiler": false,
+"source": "High School DxD Light Novel Vol. 7",
+"fact": "This volume initiates the third major story arc and expands the series' universe to encompass Norse mythology. Rossweisse is left behind by Odin at the conclusion of the crisis and joins Rias's peerage as a Rook."
+}
+]
