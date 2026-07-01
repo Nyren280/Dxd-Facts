@@ -1,1 +1,276 @@
-{}
+[
+{
+"id": 1,
+"name": "Gremory Clan",
+"race": "Devil",
+"leader": "Zeoticus Gremory",
+"members": [
+"Zeoticus Gremory",
+"Venelana Gremory",
+"Sirzechs Lucifer",
+"Rias Gremory",
+"Millicas Gremory"
+],
+"notableMembers": [
+"Rias Gremory",
+"Sirzechs Lucifer",
+"Millicas Gremory"
+],
+"abilities": [
+"Demonic Power",
+"Crimson Demonic Aura"
+],
+"affiliation": "72 Pillars / Underworld Hierarchy",
+"history": "One of the highest-ranking and most prominent Duke-class families among the 72 Pillars of the Underworld, known historically for their distinct crimson hair and deep affection toward their servants and peerage members.",
+"status": "Active",
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "The Gremory Clan governs a massive territory in the Underworld that is roughly equivalent to the size of the island of Kyushu in Japan."
+},
+{
+"id": 2,
+"name": "Bael Clan",
+"race": "Devil",
+"leader": "Zekram Bael",
+"members": [
+"Zekram Bael",
+"Lord Bael",
+"Misla Bael",
+"Sairaorg Bael",
+"Venelana Gremory"
+],
+"notableMembers": [
+"Sairaorg Bael",
+"Zekram Bael",
+"Venelana Gremory"
+],
+"abilities": [
+"Power of Destruction"
+],
+"affiliation": "72 Pillars / Underworld Hierarchy",
+"history": "The premier and highest-ranking family among the 72 Pillars, holding the prestigious rank of Great King. They are fiercely proud of their bloodline, valuing raw martial power and political dominance above all else.",
+"status": "Active",
+"spoiler": false,
+"source": "Light Novel Vol. 5",
+"fact": "Because Sairaorg Bael did not initially inherit the clan's signature Power of Destruction trait, he was severely discriminated against and stripped of his succession rights by his family."
+},
+{
+"id": 3,
+"name": "Sitri Clan",
+"race": "Devil",
+"leader": "Lord Sitri",
+"members": [
+"Lord Sitri",
+"Lady Sitri",
+"Serafall Leviathan",
+"Sona Sitri"
+],
+"notableMembers": [
+"Sona Sitri",
+"Serafall Leviathan"
+],
+"abilities": [
+"Water Manipulation",
+"Ice Magic"
+],
+"affiliation": "72 Pillars / Underworld Hierarchy",
+"history": "A noble Prince-class family within the 72 Pillars that specializes in intricate water, ice, and medical-based demonic magic rather than raw destructive physical power.",
+"status": "Active",
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "The Sitri family produced Serafall, who achieved the title of Satan Leviathan due to her immense magical capacity, exponentially elevating the house's political standing."
+},
+{
+"id": 4,
+"name": "Phenex Clan",
+"race": "Devil",
+"leader": "Lord Phenex",
+"members": [
+"Lord Phenex",
+"Lady Phenex",
+"Ruval Phenex",
+"Riser Phenex",
+"Ravel Phenex"
+],
+"notableMembers": [
+"Riser Phenex",
+"Ravel Phenex",
+"Ruval Phenex"
+],
+"abilities": [
+"Immortal Regeneration",
+"Pyrokinesis",
+"Tears of Phenex Production"
+],
+"affiliation": "72 Pillars / Underworld Hierarchy",
+"history": "A Marquis-class family among the 72 Pillars renowned for inheriting the specific traits of the mythical Phoenix, rendering their physiology completely immortal and capable of instantly regenerating from almost any lethal blow.",
+"status": "Active",
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "The clan profits immensely on a global scale by harvesting and selling the Tears of Phenex, a highly sought-after medicine that can instantly heal the wounds of any supernatural being."
+},
+{
+"id": 5,
+"name": "Astaroth Clan",
+"race": "Devil",
+"leader": "Lord Astaroth",
+"members": [
+"Lord Astaroth",
+"Ajuka Beelzebub",
+"Diodora Astaroth",
+"Latia Astaroth"
+],
+"notableMembers": [
+"Ajuka Beelzebub",
+"Diodora Astaroth",
+"Latia Astaroth"
+],
+"abilities": [
+"Demonic Power",
+"Advanced Formula Calculation Magic"
+],
+"affiliation": "72 Pillars / Khaos Brigade (factional split)",
+"history": "A noble Duke-class family of the 72 Pillars traditionally known for producing highly intelligent devils who excel in mathematical magic systems, though internal factions later split their ideological loyalties.",
+"status": "Active",
+"spoiler": true,
+"source": "Light Novel Vol. 6",
+"fact": "Diodora Astaroth brought heavy disgrace to the family lineage after conspiring secretly with the Khaos Brigade to kidnap Asia Argento, resulting in his eventual execution."
+},
+{
+"id": 6,
+"name": "Agares Clan",
+"race": "Devil",
+"leader": "Lord Agares",
+"members": [
+"Lord Agares",
+"Seekvaira Agares"
+],
+"notableMembers": [
+"Seekvaira Agares"
+],
+"abilities": [
+"Time Manipulation Anomalies",
+"Geographic Terrain Control"
+],
+"affiliation": "72 Pillars / Underworld Hierarchy",
+"history": "The second-ranked noble family of the 72 Pillars, holding the title of Duke. They possess an inherited trait related to time manipulation and control over the geographical layouts of their territories.",
+"status": "Active",
+"spoiler": false,
+"source": "Light Novel Vol. 5",
+"fact": "Seekvaira Agares, the next head of the house, is a notable closet otaku who hides her intense obsession with human mecha anime from her highly conservative parents."
+},
+{
+"id": 7,
+"name": "Belphegor Clan",
+"race": "Devil",
+"leader": "Lord Belphegor",
+"members": [
+"Lord Belphegor",
+"Roygun Belphegor"
+],
+"notableMembers": [
+"Roygun Belphegor"
+],
+"abilities": [
+"Crack (Spatial Fracturing Manipulation)"
+],
+"affiliation": "72 Pillars / Underworld Hierarchy",
+"history": "A noble house among the 72 Pillars that achieved extreme prominence in the modern Underworld due to their tactical prowess and elite competitive success in professional Rating Games.",
+"status": "Active",
+"spoiler": false,
+"source": "Light Novel Vol. 14",
+"fact": "The clan produces Roygun Belphegor, who holds the coveted Second Place rank in the global Underworld Rating Game standings."
+},
+{
+"id": 8,
+"name": "Abaddon Clan",
+"race": "Devil",
+"leader": "Lord Abaddon",
+"members": [
+"Lord Abaddon",
+"Kuisha Abaddon"
+],
+"notableMembers": [
+"Kuisha Abaddon"
+],
+"abilities": [
+"Hole (Spatial Portal Creation)"
+],
+"affiliation": "72 Pillars / Bael Peerage",
+"history": "A distinguished family within the 72 Pillars whose lineage specializes in highly complex structural spatial magic, making their members heavily sought after as ultimate defenders.",
+"status": "Active",
+"spoiler": false,
+"source": "Light Novel Vol. 10",
+"fact": "Their hereditary trait allows them to create localized black holes or portals that absorb incoming magical attacks and redirect them back toward opponents."
+},
+{
+"id": 9,
+"name": "Naberius Clan",
+"race": "Devil",
+"leader": "Lord Naberius",
+"members": [
+"Lord Naberius",
+"Clerid Naberius"
+],
+"notableMembers": [
+"Clerid Naberius"
+],
+"abilities": [
+"Advanced Biological Magic",
+"Demonic Curse Formulations"
+],
+"affiliation": "72 Pillars / Underworld Research Division",
+"history": "A Marquis-class noble family of the 72 Pillars that traditionally oversees historical archives and academic fields, though their legacy was recently stained by rogue research operations.",
+"status": "Active",
+"spoiler": true,
+"source": "Light Novel Vol. 11",
+"fact": "The clan suffered severe political fallout after heir Clerid Naberius performed forbidden illegal experiments and allied with criminal factions, leading to his execution."
+},
+{
+"id": 10,
+"name": "Glasya-Labolas Clan",
+"race": "Devil",
+"leader": "Lord Glasya-Labolas",
+"members": [
+"Lord Glasya-Labolas",
+"Zephydor Glasya-Labolas"
+],
+"notableMembers": [
+"Zephydor Glasya-Labolas"
+],
+"abilities": [
+"Demonic Magic Manipulation"
+],
+"affiliation": "72 Pillars / Underworld Hierarchy",
+"history": "An Earl-class family within the 72 Pillars known for their elite pure-blood supremacy mindset and severe political traditionalism regarding the ranking of next-generation devils.",
+"status": "Active",
+"spoiler": false,
+"source": "Light Novel Vol. 4",
+"fact": "Their arrogant heir Zephydor was soundly humiliated during a political dispute, prompting the family to reassess their isolationist training philosophies."
+},
+{
+"id": 11,
+"name": "Lucifuge Clan",
+"race": "Devil (Extra Demon)",
+"leader": "Lord Lucifuge",
+"members": [
+"Lord Lucifuge",
+"Grayfia Lucifuge",
+"Euclid Lucifuge"
+],
+"notableMembers": [
+"Grayfia Lucifuge",
+"Euclid Lucifuge"
+],
+"abilities": [
+"High-tier Ice Magic",
+"Immense Demonic Power"
+],
+"affiliation": "House of Lucifer (historically) / Gremory Clan / Four Great Satans",
+"history": "An incredibly elite lineage of Extra Demons separate from the 72 Pillars. They historically served as the direct retainers, personal housekeepers, and military guards to the original Maou Lucifer.",
+"status": "Active",
+"spoiler": true,
+"source": "Light Novel Vol. 4",
+"fact": "Grayfia Lucifuge defied her family's allegiance to the Old Satan faction during the civil war, eventually marrying Sirzechs and becoming the Silver-Haired Queen of the Gremory Clan."
+}
+]
