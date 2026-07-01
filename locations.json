@@ -1,1 +1,179 @@
-{}
+[
+{
+"id": 1,
+"name": "Kuoh Academy",
+"type": "School",
+"region": "Kuoh Town",
+"inhabitants": [
+"Issei Hyoudou",
+"Rias Gremory",
+"Akeno Himejima",
+"Koneko Toujou",
+"Yuuto Kiba",
+"Asia Argento",
+"Sona Sitri"
+],
+"affiliation": "Gremory Clan / Sitri Clan",
+"importance": "The primary earthly setting where the Occult Research Club and Student Council operate under human disguises.",
+"firstAppearance": "Season 1 Episode 1",
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "Formerly an all-girls private academy, it recently transitioned into a co-educational institution. It is secretly constructed on land controlled jointly by the Gremory and Sitri Devil noble families."
+},
+{
+"id": 2,
+"name": "Kuoh Town",
+"type": "City",
+"region": "Kanto",
+"inhabitants": [
+"Issei Hyoudou",
+"Gorou Hyoudou",
+"Miki Hyoudou"
+],
+"affiliation": "Three Factions (Peace Treaty Zone)",
+"importance": "The terrestrial focal point where Devils, Angels, and Fallen Angels interact, complete assignments, and clash.",
+"firstAppearance": "Season 1 Episode 1",
+"spoiler": false,
+"source": "Light Novel Vol. 1",
+"fact": "Kuoh Town is a high-density hotspot for supernatural phenomena despite looking like a normal Japanese suburb. It is later designated as an official neutral zone following the peace agreement between the Three Factions."
+},
+{
+"id": 3,
+"name": "The Underworld",
+"type": "Underworld",
+"region": "Supernatural Realm",
+"inhabitants": [
+"Sirzechs Lucifer",
+"Serafall Leviathan",
+"Azazel",
+"Zeoticus Gremory"
+],
+"affiliation": "Four Great Satans / 72 Pillars",
+"importance": "The primary sovereign domain of the Devil race and the administrative center of the Underworld hierarchy.",
+"firstAppearance": "Season 1 Episode 7",
+"spoiler": false,
+"source": "Light Novel Vol. 2",
+"fact": "The sky of the Underworld is dyed an eternal purple color during daytime hours. Its vast geography is heavily subdivided into territories owned by the surviving noble houses of the 72 Pillars."
+},
+{
+"id": 4,
+"name": "Dimensional Gap",
+"type": "Dimension",
+"region": "Void Realm",
+"inhabitants": [
+"Great Red",
+"Ophis"
+],
+"affiliation": "None",
+"importance": "The endless void of nothingness that physically separates the various independent dimensions and realms.",
+"firstAppearance": "Season 2 Episode 12",
+"spoiler": true,
+"source": "Light Novel Vol. 4",
+"fact": "The Dimensional Gap is an extremely hostile environment where only omnipotent supernatural entities can comfortably exist. It serves as the primary territory of the True Dragon, Great Red."
+},
+{
+"id": 5,
+"name": "Heaven",
+"type": "Heaven",
+"region": "Supernatural Realm",
+"inhabitants": [
+"Michael",
+"Gabriel",
+"Dulio Gesualdo"
+],
+"affiliation": "Angels / God's Peerage",
+"importance": "The primary majestic domain of the Angels, managed by the structural Seraphim system.",
+"firstAppearance": "Season 2 Episode 5",
+"spoiler": false,
+"source": "Light Novel Vol. 3",
+"fact": "Heaven is systematically constructed into seven distinct layered courts of holy power. Following the death of God during the Great War, the Archangel Michael assumed executive leadership over its core operations."
+},
+{
+"id": 6,
+"name": "Grigori Headquarters",
+"type": "Headquarters",
+"region": "The Underworld",
+"inhabitants": [
+"Azazel",
+"Shemhazai",
+"Baraqiel",
+"Vali Lucifer"
+],
+"affiliation": "Fallen Angels / Grigori",
+"importance": "The central administrative, military, and scientific research center for the Fallen Angel faction.",
+"firstAppearance": "Season 2 Episode 6",
+"spoiler": false,
+"source": "Light Novel Vol. 3",
+"fact": "Grigori serves as a massive institution dedicated to tracking, researching, and cataloging human Sacred Gears. It functions as the home base from which Azazel managed his faction prior to the signing of the treaty."
+},
+{
+"id": 7,
+"name": "Gremory Castle",
+"type": "Headquarters",
+"region": "Gremory Territory",
+"inhabitants": [
+"Zeoticus Gremory",
+"Venelana Gremory",
+"Millicas Gremory"
+],
+"affiliation": "Gremory Clan",
+"importance": "The ancestral palace and primary seat of political power for the noble Duke-class Gremory lineage.",
+"firstAppearance": "Season 3 Episode 1",
+"spoiler": false,
+"source": "Light Novel Vol. 5",
+"fact": "This colossal estate is architecturally modeled after historical Western European grand palaces. It is routinely used as a high-intensity training facility for the Occult Research Club when they travel to the Underworld."
+},
+{
+"id": 8,
+"name": "Kyoto",
+"type": "City",
+"region": "Kansai",
+"inhabitants": [
+"Yasaka",
+"Kunou"
+],
+"affiliation": "Youkai Faction",
+"importance": "The ancient, sacred terrestrial territory governed by the traditional Japanese Youkai race.",
+"firstAppearance": "Season 4 Episode 5",
+"spoiler": true,
+"source": "Light Novel Vol. 9",
+"fact": "Kyoto is strictly fortified by complex natural ley lines and dragon veins that organically amplify spiritual energy. The city turns into a destructive battlefield when the human Hero Faction attempts to kidnap its leader, Yasaka."
+},
+{
+"id": 9,
+"name": "Agreas",
+"type": "City",
+"region": "The Underworld",
+"inhabitants": [
+"Agares Clan"
+],
+"affiliation": "Agares Clan / Rating Game Committee",
+"importance": "A massive floating metropolis that functions as the premier neutral hub for professional Rating Games.",
+"firstAppearance": "Season 4 Episode 1",
+"spoiler": false,
+"source": "Light Novel Vol. 10",
+"fact": "Agreas is a mechanical sky island suspended in place by the hereditary terrain and spatial manipulation magic of the Agares family. It features several top-tier arenas custom-tailored to handle high-stakes Devil warfare."
+},
+{
+"id": 10,
+"name": "Hyoudou Residence",
+"type": "Headquarters",
+"region": "Kuoh Town",
+"inhabitants": [
+"Issei Hyoudou",
+"Gorou Hyoudou",
+"Miki Hyoudou",
+"Rias Gremory",
+"Asia Argento",
+"Xenovia Quarta",
+"Irina Shidou",
+"Rossweisse"
+],
+"affiliation": "Gremory Peerage",
+"importance": "The domestic residence and unofficial terrestrial headquarters for Issei's expanding peerage circle.",
+"firstAppearance": "Season 1 Episode 1",
+"spoiler": true,
+"source": "Light Novel Vol. 1",
+"fact": "Originally a modest suburban home, it was extensively renovated and expanded underground by the Gremory Clan using massive demonic funding. It serves as the primary operations base for Issei's group outside of school hours."
+}
+]
