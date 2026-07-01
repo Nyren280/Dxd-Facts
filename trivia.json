@@ -1,1 +1,34 @@
-{}
+Generate a valid JSON array for a High School DxD Trivia database.
+
+Output ONLY valid JSON.
+Do NOT include markdown, explanations, or code fences.
+
+Every object must follow this schema exactly:
+
+{
+  "id": 1,
+  "category": "",
+  "difficulty": "",
+  "relatedCharacter": "",
+  "spoiler": false,
+  "source": "",
+  "fact": ""
+}
+
+Rules:
+
+* Generate canon High School DxD trivia only.
+* Include fun facts, interesting details, production facts, character facts, and world details.
+* Use information from the anime, light novels, and official material.
+* Do not include fan theories, rumors, fan-made facts, or invented information.
+* Use sequential IDs starting at 1.
+* Keep facts concise (1–2 sentences).
+* difficulty should classify the trivia level (examples: Easy, Medium, Hard, Expert).
+* category should classify the trivia type (examples: Character, World, Anime, Light Novel, Power System, Production).
+* relatedCharacter should list a character when relevant, otherwise use an empty string.
+* spoiler should be true only if the fact reveals important story details.
+* source should reference where the trivia is known from (example: “Season 1”, “Light Novel Vol. 1”).
+
+Focus on interesting, accurate trivia that would work well as a daily Discord fact.
+
+The final output must be a clean JSON array ready to upload to GitHub and use in a Discord webhook bot.
