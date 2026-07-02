@@ -74,7 +74,7 @@
   {
     "key": "light_novel",
     "label": "Light Novel",
-    "url": "/light_novel.json",
+    "url": "/lightnovel.json",
     "enabled": true
   },
   {
