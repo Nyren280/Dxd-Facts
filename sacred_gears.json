@@ -117,8 +117,60 @@
 "source": "Light Novel Vol. 9",
 "fact": "The first and strongest of all original Longinus-class Sacred Gears, recognized as the actual spear used to pierce Jesus Christ. It possesses absolute holy power capable of easily vaporizing High-tier Devils and sealing ultimate-class threats."
 },
-{
-"id": 7,
-"name": "Zenith Tempest",
-"type": "Longinus",
-"owner": "Dulio Gesualdo",
+  {
+    "id": 7,
+    "name": "Zenith Tempest",
+    "type": "Longinus",
+    "owner": "Dulio Gesualdo",
+    "appearance": "Does not manifest as a visible weapon or armor on the user's body.",
+    "abilities": [
+      "Climate Manipulation",
+      "Probability Control"
+    ],
+    "balanceBreaker": "Unknown / Not Yet Shown",
+    "relatedEntities": [
+      "Vatican",
+      "Church Exorcists"
+    ],
+    "spoiler": false,
+    "source": "Light Novel Vol. 5",
+    "fact": "A Longinus tied to the natural world, granting its wielder influence over climate and probability. Dulio is considered one of the Church's strongest exorcists and is rarely shown needing to fight seriously, so this Sacred Gear's full extent is rarely seen on-page."
+  },
+  {
+    "id": 8,
+    "name": "Absolute Demise",
+    "type": "Longinus",
+    "owner": "Siegfried",
+    "appearance": "A pair of black, chain-like gauntlets wrapped around the user's forearms.",
+    "abilities": [
+      "Nullification",
+      "Erasure of Abilities"
+    ],
+    "balanceBreaker": "Unknown / Not Yet Shown",
+    "relatedEntities": [
+      "Hero Faction"
+    ],
+    "spoiler": false,
+    "source": "Light Novel Vol. 5",
+    "fact": "A nullification-type Longinus capable of erasing the powers and effects of anything it touches, including other Sacred Gears. Its wielder Siegfried fights alongside the Hero Faction using it in tandem with a demonic sword."
+  },
+  {
+    "id": 9,
+    "name": "Canis Lykaon",
+    "type": "Longinus",
+    "owner": "Vasco Strada",
+    "appearance": "Manifests as spectral, wolf-like beasts summoned around the user rather than as wearable armor.",
+    "abilities": [
+      "Superhuman Strength Amplification",
+      "Wolf Spirit Summoning"
+    ],
+    "balanceBreaker": "Unknown / Not Yet Shown",
+    "relatedEntities": [
+      "Vatican",
+      "Church Exorcists"
+    ],
+    "spoiler": false,
+    "source": "Light Novel Vol. 5",
+    "fact": "A Longinus that channels legendary wolf spirits to dramatically amplify the wielder's raw physical strength. Vasco Strada, one of the oldest and most respected exorcists in the Church, rarely needs more than his own monstrous natural strength in a fight."
+  }
+]
